@@ -1,0 +1,7 @@
+
+QUESTION:
+1. Create a button "disable text" when clicked must do the following action
+   i)Hide a piece of text
+   ii)Text in the button must be changed to "enable text"
+ and when clicked must display the text again 
+Using PyQt
