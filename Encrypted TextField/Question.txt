@@ -1,0 +1,3 @@
+
+QUESTION:
+2.Create an encrypted text field in PyQt.
